@@ -38,6 +38,18 @@
             android:text="New Switch"
             android:id="@+id/switch1"
             android:layout_gravity="center_horizontal" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_gravity="right" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton"
+            android:layout_gravity="center_horizontal" />
     </LinearLayout>
 
 </RelativeLayout>
